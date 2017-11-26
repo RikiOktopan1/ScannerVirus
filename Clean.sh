@@ -1,5 +1,8 @@
 #!/bin/sh
-echo "Scanning Virus and Junk File"
+echo "================================="
+date
+echo "================================="
+echo "Mulai memindai....."
 find . -type f -name "autorun.inf" -exec rm -fv {} \;
 find . -type f -name "Autorun.inf" -exec rm -fv {} \;
 find . -type f -name "desktop.ini" -exec rm -fv {} \;
