@@ -16,7 +16,7 @@ echo "Selesai.."
 echo " "
 echo "Catatan :"
 echo "Apabila terdapat Virus atau Junk File maka akan otomatis di hapus"
-echo " =================================
+echo " ================================="
  
 echo "Copyright (c) 2017 By RikiOktopan"
 echo "================================="
