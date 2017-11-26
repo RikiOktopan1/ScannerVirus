@@ -1,6 +1,6 @@
 # ScannerVirus
 
-Cara inatall dan jalankan di termux
+Cara install dan jalankan di termux
 
 
 
